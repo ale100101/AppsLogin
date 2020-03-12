@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="colorBordab">#FFFFFF</color>
+    <color name="colorBorda">#05FBC2</color>
+
 </resources>
